@@ -56,7 +56,7 @@ p {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(../RPL/img/IMG20220822144606.jpg);
+    background: url('img/IMG20220822144606.jpg');
     position: relative;
     background-repeat: no-repeat;
     background-position: center;
